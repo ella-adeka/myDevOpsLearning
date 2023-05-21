@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: setupdemo-calculator
+Version: 1.0.0
+Summary: Python package that performs simply calculations.
+Author: Elsa Deks
+License: NIT
+Keywords: simple python calculator
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3 :: Only
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Python Calculator
+Python package that performs addition, subtraction, multiplication, and division calculations
+
+## Installation
+```
+$ pip install setupdemo_calculator
+```
+
+## Usage
+This package requires a valid api key. You can get one from [Setupdemo Developer Guide](https://setupdemo_calc.com/services/developer/api/)
+
+## License
+Setupdemo Calculator is released under the MIT license. See LICENSE for details.
+*to choose a license https://choosealicense.com/
+
+## Contact
+Follow me on twitter [@techumbrae](https://twitter.com/techumbrae)

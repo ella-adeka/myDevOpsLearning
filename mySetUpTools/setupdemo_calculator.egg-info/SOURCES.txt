@@ -1,0 +1,9 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+setupdemo_calculator.egg-info/PKG-INFO
+setupdemo_calculator.egg-info/SOURCES.txt
+setupdemo_calculator.egg-info/dependency_links.txt
+setupdemo_calculator.egg-info/requires.txt
+setupdemo_calculator.egg-info/top_level.txt
